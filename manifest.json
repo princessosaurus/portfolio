@@ -1,0 +1,30 @@
+{
+  "short_name": "Welcome",
+  "name": "Princessosaurus-Welcome",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-large.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "ink-s.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "header-photo.png",
+      "type": "image/png",
+      "sizes": "1920x1080"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#f2eee7"
+}
